@@ -44,4 +44,4 @@ export const getProductById = (productId) => {
     })
 }
 
-export default getProducts
+export default getProducts; getProductById
